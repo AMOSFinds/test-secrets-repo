@@ -1,3 +1,3 @@
 DB_PASSWORD = "SuperS3cretP@ss!"
-STRIPE_SECRET = "sk_live_1234567890abcdefghijklmnopqrstuv"
+STRIPE_SECRET = "sk_live_1234567890abcdefghijklmnopqrstuv1234"
 AWS_SECRET_ACCESS_KEY=BBBBBBBBBBBBBBBBBBBBBBBBBBBB
